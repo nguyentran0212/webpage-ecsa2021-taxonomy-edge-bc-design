@@ -1,0 +1,10 @@
+_site/
+.jekyll-metadata
+.jekyll-cache/
+.sass-cache/
+vendor/
+.bundle/
+.DS_Store
+*.log
+
+# Gemfile.lock IS committed for reproducible Pages builds (do not ignore it)

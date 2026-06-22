@@ -1,0 +1,22 @@
+# Site identity
+title: "Taxonomy of Edge Blockchain Network Designs"
+description: "Paper page for Tran & Babar (2021), European Conference on Software Architecture (ECSA)."
+author: "Nguyen Khoi Tran, M. Ali Babar"
+
+# Deployment
+baseurl: "/webpage-ecsa2021-taxonomy-edge-bc-design"
+url: "https://nguyentran0212.github.io"
+
+# Markdown engine
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (none for now — keep it simple)
+plugins: []
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
